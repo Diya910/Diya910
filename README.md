@@ -1,4 +1,3 @@
-![github-header-image](https://github.com/diyakhetarpal/diyakhetarpal/assets/your-image-link) 
 
 # About Me ✨
 - A passionate AI/ML enthusiast with a strong background in **Python, Data Science, and Data Analyst**.
